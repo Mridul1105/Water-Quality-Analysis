@@ -1,1 +1,2 @@
 # Water-Quality-Analysis
+This project leverages machine learning to analyze and predict water suitability for irrigation based on environmental parameters like pH, salinity, dissolved oxygen, and more. By providing data-driven insights, the model helps farmers and agricultural experts make informed decisions, ultimately enhancing crop productivity and sustainability. The model achieved high accuracy in classifying water quality, offering valuable insights for farmers and environmental agencies to assess irrigation suitability effectively.
